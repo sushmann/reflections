@@ -1,0 +1,30 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I could see the bug very fast because i could compare the old state of the program and the new one with the bug aswell.
+The diff command is very usefull because i don't have to check the whole text but only the differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I can see my mistakes and the process of debugging them so i can analyze where my weaknesses are and i can focus on then in  the next project.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros:
+	- you can save logical units to save and have a clear discription for the changes
+	- you can create a scheme that works for you
+
+cons: - you have to save it manually that means you must have the 				discipline to save regulary
+		- you can forget it
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because in programming many files have connection between them, if you change one thing in e.g. a html file then you want to change the css file aswell.
+
+How can you use the commands git log and git diff to view the history of files?
+WIth the git log command i can find all commiments which where made for this file, with the git diff command i can compare 2 version of the file and can see how the files differ from each other.
+
+How might using version control make you more confident to make changes that could break something?
+WIth version control i can easily go to the last state of the program that worked, so i loose little time of the newest verion wont't work.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to learn how i use Git in an efficent way so i will use it on every program i write.
